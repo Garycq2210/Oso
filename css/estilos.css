@@ -1,0 +1,151 @@
+
+#contenedor
+{
+    width: 1000px;
+    height: 1000px;
+    background-color: rgba(0, 255, 255, 0.322);
+    margin: auto;
+}
+#caja1
+{
+width: 500px;
+height: 500px;
+background-color: rgba(199, 150, 45, 0.904);
+display: inline-block;
+position: relative;
+left: 200px;
+top: 300px;
+border-radius: 1000px;
+}
+#caja2
+{
+    width: 300px;
+    height: 300px;
+    background-color: burlywood;    
+    display: inline-block;
+    position: absolute;
+    left: 590px;
+    top: 50px;
+    border-radius: 1000px;
+}
+#ojod
+{
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    position: relative;
+    top: 65px;
+    left: 50px;
+}
+#ojoi
+{
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    position: relative;
+    top: 7px;
+    left: 180px;
+}
+#nar
+{
+background-color: rgb(0, 0, 0);
+height: 60px;
+width: 60px;
+position: relative;
+top: 20px;
+left: 115px;
+border-radius: 60px;
+background-color: rgb(241, 179, 97);
+border-style:solid ;
+border-color: black;
+}
+#pup
+{
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    left: 18px;
+}
+#piernad
+{
+    width: 150px;
+    height: 125px;
+    background-color: burlywood;
+    display: inline-block;
+    position: relative;
+    top: 300px;
+    left: 50px;
+    transform: rotate(45deg);
+    border-radius: 75px;
+}
+#piernai
+{
+    width: 150px;
+    height: 125px;
+    background-color: burlywood;
+    display: inline-block;
+    position: absolute;
+    top: 700px;
+    left: 520px;
+    transform: rotate(135deg);
+    border-radius: 75px;
+}
+#brazo1
+{
+    width: 200px;
+    height: 100px;
+    background-color: burlywood;
+    border-radius: 100px;  
+    position: relative;
+    left: 100px;  
+    top: -60px;
+    transform: rotate(-45deg);
+}
+#brazo2
+{
+    width: 200px;
+    height: 100px;
+    background-color: burlywood;
+    border-radius: 100px;  
+    position: relative;
+    left: 600px;  
+    top: -150px;
+    transform: rotate(45deg);
+}
+#caja4-1
+{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(202, 110, 34);
+    position: relative;
+    left: 100px;
+    top: 100px;
+    transform: rotate(45deg);
+    border-radius: 1000px;
+}
+#oreja1
+{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(102, 71, 32);
+    position: relative;
+    top: -700px;
+    left: 200px;
+    border-radius: 150px;
+}
+
+#oreja2
+{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(102, 71, 32);
+    position: relative;
+    top: -880px;
+    left: 500px;
+    border-radius: 150px;
+}
